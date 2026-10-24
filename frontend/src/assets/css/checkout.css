@@ -1,0 +1,91 @@
+/* ============================================================
+   B.unique - Checkout page styles
+   ============================================================ */
+
+.checkout-page .checkout-card {
+  background: #fff;
+  border: 1px solid var(--bu-border);
+  border-radius: 12px;
+  padding: 26px;
+  margin-bottom: 20px;
+}
+.checkout-page .checkout-card h5 {
+  font-size: 18px;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid var(--bu-border);
+}
+.checkout-page .checkout-card h5 i { color: var(--bu-gold); margin-right: 8px; }
+
+.checkout-page .form-label {
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  color: var(--bu-dark);
+}
+.checkout-page .form-control, .checkout-page .form-select {
+  border: 1px solid var(--bu-border);
+  border-radius: 8px;
+  padding: 11px 14px;
+  font-size: 14px;
+  background: #fdfbf7;
+}
+.checkout-page .form-control:focus, .checkout-page .form-select:focus {
+  border-color: var(--bu-gold);
+  box-shadow: 0 0 0 .2rem rgba(185,138,78,.12);
+  background: #fff;
+}
+
+.payment-option {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  border: 1px solid var(--bu-border);
+  border-radius: 10px;
+  padding: 14px 16px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: all .2s;
+}
+.payment-option:hover { border-color: var(--bu-gold); background: #fdf9f1; }
+.payment-option.selected { border-color: var(--bu-gold); background: #fdf9f1; }
+.payment-option input[type=radio] { accent-color: var(--bu-gold); transform: scale(1.1); }
+.payment-option .pay-icon {
+  width: 40px; height: 40px; border-radius: 8px;
+  background: var(--bu-cream-2); color: var(--bu-gold);
+  display: flex; align-items: center; justify-content: center; font-size: 18px;
+}
+
+.order-summary-card {
+  background: #fff;
+  border: 1px solid var(--bu-border);
+  border-radius: 12px;
+  padding: 24px;
+  position: sticky;
+  top: 100px;
+}
+.order-summary-card h5 { padding-bottom: 12px; border-bottom: 1px solid var(--bu-border); margin-bottom: 14px; }
+.order-summary-card .item-row {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 7px 0; font-size: 13px;
+}
+.order-summary-card .item-row img {
+  width: 40px; height: 40px; border-radius: 6px; object-fit: cover; margin-right: 8px;
+}
+.order-summary-card .summary-divider { border-top: 1px dashed var(--bu-border); margin: 12px 0; }
+
+.place-order-btn {
+  width: 100%;
+  padding: 14px;
+  border-radius: 40px;
+  border: 0;
+  background: var(--bu-gold);
+  color: #fff;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 14px;
+  transition: all .25s;
+}
+.place-order-btn:hover { background: var(--bu-dark); }

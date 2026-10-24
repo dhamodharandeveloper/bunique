@@ -1,0 +1,324 @@
+[2026-08-04 16:30:14] To: sdhamo10@gmail.com | Subject: Verify your email — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Email Verification</h2>
+            
+      <p>Hello Dhamodharan S,</p>
+      <p>Welcome to <strong>B.unique Handmade Jewellery</strong>! Please confirm your email address to activate your account.</p>
+      <p style="text-align:center;margin:26px 0;">
+        <a href="http://localhost/bunique/verify-email.php?token=45dabfb795230783f8407248258085f4" style="background:#b98a4e;color:#ffffff;padding:12px 28px;border-radius:6px;text-decoration:none;display:inline-block;">Verify Email Address</a>
+      </p>
+      <p style="font-size:12px;color:#888;">If the button does not work, copy and paste this link into your browser:<br>http://localhost/bunique/verify-email.php?token=45dabfb795230783f8407248258085f4</p>
+      <p>The link is valid for 24 hours.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; Shop No. 12, Main Bazaar, Jaipur, Rajasthan - 302001<br>
+            Need help? Reply to this email or call +91 98765 43210
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-04 16:30:42] To: sdhamo10@gmail.com | Subject: Order Confirmation #BU260804BE4586 — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Order Confirmed</h2>
+            
+      <p>Hi Dhamodharan S,</p>
+      <p>Thank you for your order! Your order has been placed successfully.</p>
+      <p><strong>Order Number:</strong> BU260804BE4586<br>
+      <strong>Order Date:</strong> 04 Aug 2026 04:30 PM<br>
+      <strong>Payment Method:</strong> UPI</p>
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        <tr style="background:#f5f0e8;">
+          <th align="left" style="padding:8px;">Item</th>
+          <th align="center" style="padding:8px;">Qty</th>
+          <th align="right" style="padding:8px;">Price</th>
+        </tr><tr>
+            <td style="padding:8px;border-bottom:1px solid #eee;">Pearl Drop Earrings</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:center;">1</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:right;">₹ 799.00</td>
+          </tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Subtotal:</strong></td><td align="right">₹ 799.00</td></tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Discount:</strong></td><td align="right">-₹ 79.90</td></tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Shipping:</strong></td><td align="right">₹ 49.00</td></tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Total:</strong></td><td align="right" style="font-size:16px;"><strong>₹ 768.10</strong></td></tr>
+      </table>
+      <p>Track your order anytime from <a href="http://localhost/bunique/track-order.php">Track Order</a>.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; Shop No. 12, Main Bazaar, Jaipur, Rajasthan - 302001<br>
+            Need help? Reply to this email or call +91 98765 43210
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-07 14:47:18] To: sdhamo@gmail.com | Subject: Verify your email — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Email Verification</h2>
+            
+      <p>Hello Dhamodharan S,</p>
+      <p>Welcome to <strong>B.unique Handmade Jewellery</strong>! Please confirm your email address to activate your account.</p>
+      <p style="text-align:center;margin:26px 0;">
+        <a href="http://localhost/bunique/verify-email.php?token=e72e2c56fae3986e3951a1841383710c" style="background:#b98a4e;color:#ffffff;padding:12px 28px;border-radius:6px;text-decoration:none;display:inline-block;">Verify Email Address</a>
+      </p>
+      <p style="font-size:12px;color:#888;">If the button does not work, copy and paste this link into your browser:<br>http://localhost/bunique/verify-email.php?token=e72e2c56fae3986e3951a1841383710c</p>
+      <p>The link is valid for 24 hours.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; Shop No. 12, Main Bazaar, Jaipur, Rajasthan - 302001<br>
+            Need help? Reply to this email or call +91 98765 43210
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-07 20:50:22] To: sdhamo@gmail.com | Subject: Verify your email — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Email Verification</h2>
+            
+      <p>Hello Dhamodharan S,</p>
+      <p>Welcome to <strong>B.unique Handmade Jewellery</strong>! Please confirm your email address to activate your account.</p>
+      <p style="text-align:center;margin:26px 0;">
+        <a href="http://localhost/bunique/verify-email.php?token=ea38f1dc29c933be429d1aaf17a05823" style="background:#b98a4e;color:#ffffff;padding:12px 28px;border-radius:6px;text-decoration:none;display:inline-block;">Verify Email Address</a>
+      </p>
+      <p style="font-size:12px;color:#888;">If the button does not work, copy and paste this link into your browser:<br>http://localhost/bunique/verify-email.php?token=ea38f1dc29c933be429d1aaf17a05823</p>
+      <p>The link is valid for 24 hours.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-07 21:29:07] To: sdhamo@gmail.com | Subject: Order Confirmation #BU260807D8AF33 — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Order Confirmed</h2>
+            
+      <p>Hi Dhamodharan S,</p>
+      <p>Thank you for your order! Your order has been placed successfully.</p>
+      <p><strong>Order Number:</strong> BU260807D8AF33<br>
+      <strong>Order Date:</strong> 07 Aug 2026 09:29 PM<br>
+      <strong>Payment Method:</strong> COD</p>
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        <tr style="background:#f5f0e8;">
+          <th align="left" style="padding:8px;">Item</th>
+          <th align="center" style="padding:8px;">Qty</th>
+          <th align="right" style="padding:8px;">Price</th>
+        </tr><tr>
+            <td style="padding:8px;border-bottom:1px solid #eee;">Rose Gold Butterfly Necklace</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:center;">1</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:right;">₹ 1,499.00</td>
+          </tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Subtotal:</strong></td><td align="right">₹ 1,499.00</td></tr>
+        
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Shipping:</strong></td><td align="right">₹ 0.00</td></tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Total:</strong></td><td align="right" style="font-size:16px;"><strong>₹ 1,499.00</strong></td></tr>
+      </table>
+      <p>Track your order anytime from <a href="http://localhost/bunique/track-order.php">Track Order</a>.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-07 21:45:44] To: sdhamo@gmail.com | Subject: How was your purchase? — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Rate Your Purchase</h2>
+            
+      <p>Hi Dhamodharan S,</p>
+      <p>Your order <strong>BU260807D8AF33</strong> has been delivered. We hope you love your jewellery!</p>
+      <p>We would love to hear your feedback. Please take a moment to rate the products you purchased:</p><p style="text-align:center;margin:14px 0;">
+          <a href="http://localhost/rate-product.php?token=c91619b258aeb3ce2c50fb527a356c3c&amp;product=1" style="background:#b98a4e;color:#ffffff;padding:11px 24px;border-radius:6px;text-decoration:none;display:inline-block;">Rate Rose Gold Butterfly Necklace</a>
+        </p>
+      <p style="font-size:12px;color:#888;">If the buttons do not work, copy and paste the links into your browser.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-08 15:56:16] To: sdhamo10@gmail.com | Subject: Verify your email — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Email Verification</h2>
+            
+      <p>Hello Dhamodharan S,</p>
+      <p>Welcome to <strong>B.unique Handmade Jewellery</strong>! Please confirm your email address to activate your account.</p>
+      <p style="text-align:center;margin:26px 0;">
+        <a href="http://localhost/bunique/verify-email.php?token=722626605df61fb76b74fd3e31ce22f3" style="background:#b98a4e;color:#ffffff;padding:12px 28px;border-radius:6px;text-decoration:none;display:inline-block;">Verify Email Address</a>
+      </p>
+      <p style="font-size:12px;color:#888;">If the button does not work, copy and paste this link into your browser:<br>http://localhost/bunique/verify-email.php?token=722626605df61fb76b74fd3e31ce22f3</p>
+      <p>The link is valid for 24 hours.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-10 16:32:33] To: sdhamo10@gmail.com | Subject: Order Confirmation #BU26081046DECE — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Order Confirmed</h2>
+            
+      <p>Hi Dhamodharan S,</p>
+      <p>Thank you for your order! Your order has been placed successfully.</p>
+      <p><strong>Order Number:</strong> BU26081046DECE<br>
+      <strong>Order Date:</strong> 10 Aug 2026 04:32 PM<br>
+      <strong>Payment Method:</strong> CARD</p>
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        <tr style="background:#f5f0e8;">
+          <th align="left" style="padding:8px;">Item</th>
+          <th align="center" style="padding:8px;">Qty</th>
+          <th align="right" style="padding:8px;">Price</th>
+        </tr><tr>
+            <td style="padding:8px;border-bottom:1px solid #eee;">Rose Gold Butterfly Necklace</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:center;">1</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:right;">₹ 1,499.00</td>
+          </tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Subtotal:</strong></td><td align="right">₹ 1,499.00</td></tr>
+        
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Shipping:</strong></td><td align="right">₹ 0.00</td></tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Total:</strong></td><td align="right" style="font-size:16px;"><strong>₹ 1,499.00</strong></td></tr>
+      </table>
+      <p>Track your order anytime from <a href="http://localhost/bunique/track-order.php">Track Order</a>.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------
+[2026-08-10 17:34:38] To: user@example.com | Subject: Order Confirmation #BU2608101E4AD1 — B.unique Handmade Jewellery | Note: SMTP not configured — email logged instead of sent.
+Body:
+
+    <!DOCTYPE html><html><body style="margin:0;padding:0;background:#f5f0e8;font-family:Arial,Helvetica,sans-serif;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f5f0e8;padding:30px 10px;">
+      <tr><td align="center">
+        <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="background:#ffffff;border-radius:10px;overflow:hidden;">
+          <tr><td style="background:#2c2017;padding:24px 30px;">
+            <div style="font-family:Georgia,serif;font-size:22px;color:#e8c887;letter-spacing:1px;">B.unique</div>
+            <div style="font-size:11px;color:#b7a27f;letter-spacing:2px;text-transform:uppercase;">Handmade Jewellery</div>
+          </td></tr>
+          <tr><td style="padding:30px;">
+            <h2 style="color:#2c2017;margin:0 0 14px;">Order Confirmed</h2>
+            
+      <p>Hi User Example,</p>
+      <p>Thank you for your order! Your order has been placed successfully.</p>
+      <p><strong>Order Number:</strong> BU2608101E4AD1<br>
+      <strong>Order Date:</strong> 10 Aug 2026 05:34 PM<br>
+      <strong>Payment Method:</strong> UPI</p>
+      <table width="100%" cellpadding="0" cellspacing="0" style="border-collapse:collapse;">
+        <tr style="background:#f5f0e8;">
+          <th align="left" style="padding:8px;">Item</th>
+          <th align="center" style="padding:8px;">Qty</th>
+          <th align="right" style="padding:8px;">Price</th>
+        </tr><tr>
+            <td style="padding:8px;border-bottom:1px solid #eee;">Rose Gold Butterfly Necklace</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:center;">2</td>
+            <td style="padding:8px;border-bottom:1px solid #eee;text-align:right;">₹ 1,499.00</td>
+          </tr>
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Subtotal:</strong></td><td align="right">₹ 2,998.00</td></tr>
+        
+        <tr><td colspan="2" align="right" style="padding:8px;"><strong>Total:</strong></td><td align="right" style="font-size:16px;"><strong>₹ 2,998.00</strong></td></tr>
+      </table>
+      <p>Track your order anytime from <a href="http://localhost/bunique/track-order.php">Track Order</a>.</p>
+          </td></tr>
+          <tr><td style="background:#faf6ef;padding:16px 30px;color:#8a7a63;font-size:12px;">
+            B.unique Handmade Jewellery &bull; No.22(33) ambalathadayar madam street, Canteen St, opp. to adexpress, cutting, White Town, Puducherry, 605001<br>
+            Need help? Reply to this email or call +91 88078 83114
+          </td></tr>
+        </table>
+      </td></tr>
+    </table></body></html>
+--------------------------------------------------------------------------------

@@ -1,0 +1,85 @@
+/* ============================================================
+   B.unique - Responsive styles
+   ============================================================ */
+
+/* Touch devices have no hover: always show the quick action buttons
+   (add to cart / wishlist / view) on product cards. */
+@media (hover: none), (max-width: 767px) {
+  .product-actions { opacity: 1; transform: none; }
+}
+
+@media (max-width: 1199px) {
+  .hero-slider .hero-title { font-size: 44px; }
+}
+
+@media (max-width: 991px) {
+  section { padding: 48px 0; }
+  .header-inner { flex-wrap: wrap; gap: 12px; }
+  .header-search { order: 3; max-width: 100%; flex-basis: 100%; }
+  .hero-slider .carousel-item { min-height: 440px; }
+  .hero-slider .hero-title { font-size: 34px; }
+  .megamenu { position: static; box-shadow: none; border-top: 0; padding: 0; opacity: 1; visibility: visible; transform: none; }
+  .megamenu .featured-box { display: none; }
+  .main-nav .navbar-nav .nav-link { padding: 10px 0; }
+  .section-title-wrap h2 { font-size: 30px; }
+  .dual-banner .banner-box { min-height: 220px; margin-bottom: 16px; }
+  .profile-side { margin-bottom: 20px; }
+  .page-banner { padding: 52px 0; }
+  .page-banner h1 { font-size: 32px; }
+
+  /* Sticky summary panels must not float over content on smaller screens */
+  .cart-summary, .cart-summary-sticky { position: static !important; }
+}
+
+@media (max-width: 767px) {
+  .admin-content { padding: 14px; }
+  .admin-page-header h4 { font-size: 20px; }
+  .admin-page-header { gap: 10px; }
+}
+
+@media (max-width: 575px) {
+  section { padding: 40px 0; }
+  .header-actions { gap: 2px; }
+  .header-actions .header-action span { display: none; }
+  .header-action { padding: 6px 7px; }
+  .header-action i { font-size: 20px; }
+  .logo { font-size: 24px; }
+  .topbar { font-size: 10px; letter-spacing: 1px; }
+  .hero-slider .carousel-item { min-height: 380px; }
+  .hero-slider .carousel-caption { left: 5%; right: 5%; }
+  .hero-slider .hero-title { font-size: 26px; }
+  .hero-slider .hero-text { font-size: 15px; margin-bottom: 18px; }
+  .hero-slider .carousel-indicators { bottom: 14px; }
+  .section-title-wrap { margin-bottom: 28px; }
+  .section-title-wrap h2 { font-size: 26px; }
+  .page-banner { padding: 40px 0; }
+  .page-banner h1 { font-size: 26px; }
+  .cart-product { flex-direction: column; align-items: flex-start; }
+  .cart-table thead { display: none; }
+  .cart-table td { display: block; text-align: right; }
+  .cart-table td::before { content: attr(data-label); float: left; font-weight: 600; text-transform: uppercase; font-size: 11px; color: var(--bu-muted); }
+  .cart-table .cart-product img { width: 96px; height: 96px; }
+  .auth-card { padding: 24px 20px; }
+  .feature-item { justify-content: flex-start; }
+  .feature-item i { font-size: 24px; }
+  .feature-strip { padding: 20px 0; }
+  .product-info { padding: 14px; }
+  .filter-card { padding: 18px; }
+  .product-detail h1 { font-size: 25px; }
+  .product-detail .detail-price { font-size: 22px; }
+  .qty-box input { width: 44px; }
+  .dual-banner .banner-text { padding: 22px; }
+  .dual-banner .banner-text h3 { font-size: 22px; }
+  .newsletter-band { padding: 40px 0; }
+  .newsletter-band h3 { font-size: 26px; }
+  .footer-bottom .container { justify-content: center; text-align: center; }
+  .payment-icons { margin-top: 8px; }
+  .cart-summary { padding: 20px; }
+  .coupon-box { flex-wrap: wrap; }
+  .coupon-box input { border-radius: 40px; }
+  .coupon-box .btn { border-radius: 40px; width: 100%; }
+  .timeline { padding-left: 24px; }
+  .testimonial-card { padding: 20px; }
+  .order-card { padding: 20px; }
+  .profile-card { padding: 20px; }
+}

@@ -1,0 +1,47 @@
+/* ============================================================
+   B.unique - Cart page styles
+   ============================================================ */
+
+.cart-page .cart-table .table thead th {
+  font-size: 11px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  background: var(--bu-dark);
+  color: var(--bu-gold-light);
+  border-bottom: 0;
+  padding: 14px;
+}
+
+.cart-page .cart-table td {
+  border-color: var(--bu-border);
+  font-size: 14px;
+}
+
+.cart-table .cart-product img {
+  width: 76px;
+  height: 76px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--bu-border);
+}
+
+.cart-qty .qty-box {
+  border-radius: 30px;
+}
+
+.coupon-message {
+  font-size: 13px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  margin-bottom: 14px;
+}
+.coupon-message.success { background: #eaf7ef; color: var(--bu-green); }
+.coupon-message.error { background: #fdecea; color: var(--bu-red); }
+
+.cart-summary-sticky { position: sticky; top: 100px; }
+
+@media (max-width: 767px) {
+  .cart-table .table, .cart-table tbody, .cart-table tr, .cart-table td { display: block; width: 100%; }
+  .cart-table tr { border-bottom: 2px solid var(--bu-border); padding: 10px 0; }
+  .cart-table td { border: 0 !important; padding: 8px 16px !important; }
+}

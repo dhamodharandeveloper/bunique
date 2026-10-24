@@ -1,0 +1,62 @@
+/* ============================================================
+   B.unique - Profile / account pages
+   ============================================================ */
+
+.profile-page .profile-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(44,32,23,.07);
+  padding: 24px;
+  margin-bottom: 20px;
+}
+
+.profile-side {
+  position: sticky;
+  top: 100px;
+}
+.profile-side .list-group-item {
+  border: 0;
+  padding: 13px 16px;
+  color: var(--bu-text);
+  font-size: 14px;
+  border-bottom: 1px solid var(--bu-border);
+  background: transparent;
+  transition: all .2s;
+}
+.profile-side .list-group-item:last-child { border-bottom: 0; }
+.profile-side .list-group-item i { width: 22px; color: var(--bu-gold); }
+.profile-side .list-group-item:hover { color: var(--bu-gold); padding-left: 20px; }
+.profile-side .list-group-item.active {
+  background: var(--bu-dark);
+  color: #fff;
+  padding-left: 20px;
+}
+.profile-side .list-group-item.active i { color: var(--bu-gold-light); }
+
+.stat-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(44,32,23,.07);
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+.stat-card i {
+  width: 52px; height: 52px; border-radius: 12px;
+  background: var(--bu-cream-2); color: var(--bu-gold);
+  display: flex; align-items: center; justify-content: center; font-size: 24px;
+}
+.stat-card h4 { margin: 0; font-family: var(--bu-font-body); font-weight: 700; font-size: 24px; }
+.stat-card small { color: var(--bu-muted); text-transform: uppercase; letter-spacing: 1px; font-size: 10px; }
+
+.avatar-circle {
+  width: 80px; height: 80px; border-radius: 50%;
+  background: var(--bu-gold); color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 30px; font-weight: 600; margin: 0 auto 12px;
+}
+
+@media (max-width: 991px) {
+  .profile-side { position: static; }
+}
